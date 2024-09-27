@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 51f6725b65a421b4d9afc8f5e978a72a
+guid: 05fb8b22af28b4b418d6c6b72a489321
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,49 +110,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Animated_Wizard-With-Staff-Sheet_0
+      name: Updated_Wizard_Walk_Cycle_0
       rect:
         serializedVersion: 2
         x: 4
         y: 5
         width: 36
-        height: 32
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f01a3725ca78c4dbc33754d72ddf8d
-      internalID: -358590064
+      spriteID: bcb463fee4dabf449a4bd3b4bc89ff7d
+      internalID: -1987600737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animated_Wizard-With-Staff-Sheet_1
+      name: Updated_Wizard_Walk_Cycle_1
       rect:
         serializedVersion: 2
         x: 45
-        y: 5
+        y: 4
         width: 36
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42ceca199d1e2804f96d467f6a5aa5dc
-      internalID: 1122879384
+      spriteID: 622f0417ca2bb064788cba58b4d2fc15
+      internalID: 1165066226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animated_Wizard-With-Staff-Sheet_2
+      name: Updated_Wizard_Walk_Cycle_2
       rect:
         serializedVersion: 2
         x: 86
@@ -160,20 +160,20 @@ TextureImporter:
         width: 37
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2143479a58e381c49b11cf3c24aee462
-      internalID: -1529635696
+      spriteID: d1d5802265aae2d4c989fe3eb6347dc0
+      internalID: -133313000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animated_Wizard-With-Staff-Sheet_3
+      name: Updated_Wizard_Walk_Cycle_3
       rect:
         serializedVersion: 2
         x: 127
@@ -181,14 +181,14 @@ TextureImporter:
         width: 37
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1638c2d535fff684b89a9d5cd2d56e89
-      internalID: 307224164
+      spriteID: 267b90e6472a6234696ef56e8ef48a15
+      internalID: -364354104
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Animated_Wizard-With-Staff-Sheet_0: -358590064
-      Animated_Wizard-With-Staff-Sheet_1: 1122879384
-      Animated_Wizard-With-Staff-Sheet_2: -1529635696
-      Animated_Wizard-With-Staff-Sheet_3: 307224164
+      Updated_Wizard_Walk_Cycle_0: -1987600737
+      Updated_Wizard_Walk_Cycle_1: 1165066226
+      Updated_Wizard_Walk_Cycle_2: -133313000
+      Updated_Wizard_Walk_Cycle_3: -364354104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
